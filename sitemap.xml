@@ -3,20 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://whsesp.github.io/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/tags/grammar/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/wiki/intro-esp/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/wiki-index/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/tags/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/wiki/ser-vs-estar/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/tags/usage/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whsesp.github.io/tags/verb/</loc>
+    <lastmod>2020-08-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://whsesp.github.io/wiki/</loc>
     <lastmod>2020-08-30T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whsesp.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://whsesp.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://whsesp.github.io/tags/</loc>
   </url>
   
 </urlset>

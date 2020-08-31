@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English Spanish Partnership Wiki</title>
-    <link>https://whsesp.github.io/</link>
-    <description>Recent content on English Spanish Partnership Wiki</description>
+    <title>Wikis on English Spanish Partnership Wiki</title>
+    <link>https://whsesp.github.io/wiki/</link>
+    <description>Recent content in Wikis on English Spanish Partnership Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
     <lastBuildDate>Sun, 30 Aug 2020 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://whsesp.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whsesp.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://whsesp.github.io/wiki/intro-esp/</guid>
       <description>Welcome to the ESP Spanish Wiki! Here&amp;rsquo;s some essential knowledge to kick-start your Spanish learning journey! The first lesson is fairly long, so feel free to take breaks in between.
 Gender Spanish nouns have gender. Usually, nouns ending in -o are masculine, like nacho, and words ending in -a are feminine like agua. This is a general pattern and you will see many exceptions to it. Other patterns will emerge as you learn more Spanish.</description>
-    </item>
-    
-    <item>
-      <title>Spanish Wiki</title>
-      <link>https://whsesp.github.io/wiki-index/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://whsesp.github.io/wiki-index/</guid>
-      <description>This wiki is maintained by Walnut High School English Spanish Partnership officer team.
-Social Media  Join our Discord server to learn Spanish and socialize! Join our Facebook group and Remind (code: whsespinfo) to keep track of important announcements and communicate with other members Follow us on Instagram to see Spanish tips and tricks on your feed!  Resources  Check out our wiki (see Index) Real Academia Española (RAE): Everything about the Spanish language.</description>
     </item>
     
     <item>

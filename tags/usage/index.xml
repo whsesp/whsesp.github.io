@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usage on English Spanish Partnership Wiki</title>
+    <link>https://whsesp.github.io/tags/usage/</link>
+    <description>Recent content in usage on English Spanish Partnership Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://whsesp.github.io/tags/usage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Spanish</title>
+      <link>https://whsesp.github.io/wiki/intro-esp/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://whsesp.github.io/wiki/intro-esp/</guid>
+      <description>Welcome to the ESP Spanish Wiki! Here&amp;rsquo;s some essential knowledge to kick-start your Spanish learning journey! The first lesson is fairly long, so feel free to take breaks in between.
+Gender Spanish nouns have gender. Usually, nouns ending in -o are masculine, like nacho, and words ending in -a are feminine like agua. This is a general pattern and you will see many exceptions to it. Other patterns will emerge as you learn more Spanish.</description>
+    </item>
+    
+  </channel>
+</rss>
