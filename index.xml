@@ -7,17 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://whsesp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Resources</title>
-      <link>https://whsesp.github.io/wiki/resources/</link>
+      <title>Index</title>
+      <link>https://whsesp.github.io/wiki/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
       
-      <guid>https://whsesp.github.io/wiki/resources/</guid>
+      <guid>https://whsesp.github.io/wiki/</guid>
       <description>This wiki is maintained by Walnut High School English Spanish Partnership officer team.
 Social Media  Join our Discord server to learn Spanish and socialize! Join our Facebook group and Remind (code: whsespinfo) to keep track of important announcements and communicate with other members Follow us on Instagram to see Spanish tips and tricks on your feed!  Resources  Check out our wiki (see sidebar); more tutorials in the making!</description>
     </item>
