@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://whsesp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>grammar</title>
       <link>https://whsesp.github.io/tags/grammar/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 -0700</pubDate>
       
       <guid>https://whsesp.github.io/tags/grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verb</title>
+      <link>https://whsesp.github.io/tags/verb/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://whsesp.github.io/tags/verb/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
       
       <guid>https://whsesp.github.io/tags/usage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>verb</title>
-      <link>https://whsesp.github.io/tags/verb/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
-      
-      <guid>https://whsesp.github.io/tags/verb/</guid>
       <description></description>
     </item>
     
