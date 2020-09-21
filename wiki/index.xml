@@ -7,10 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://whsesp.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 -0700</lastBuildDate><atom:link href="https://whsesp.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Spanish</title>
+      <link>https://whsesp.github.io/wiki/intro-to-spanish/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://whsesp.github.io/wiki/intro-to-spanish/</guid>
+      <description>Introduction Hello, welcome to English Spanish Partnership&amp;rsquo;s Spanish wiki. Here you can find a series of tutorials on the Spanish language and occasionally on Hispanic culture.
+Why learn Spanish?  Spanish is the fourth most spoken language in the world. Language learning is known to keep your mind sharp and improve your cognitive abilities, including critical thinking, memory, decision-making, etc. 20 Spanish speaking countries &amp;ndash; 20 places for travel with unique cultures and art.</description>
+    </item>
     
     <item>
       <title>Retelling the Past: Imperfect vs. Preterite</title>
