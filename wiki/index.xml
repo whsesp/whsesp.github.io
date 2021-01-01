@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wikis on English Spanish Partnership Wiki</title>
+    <title>Spanish Wiki on English Spanish Partnership Wiki</title>
     <link>https://whsesp.github.io/wiki/</link>
-    <description>Recent content in Wikis on English Spanish Partnership Wiki</description>
+    <description>Recent content in Spanish Wiki on English Spanish Partnership Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-NC-SA 4.0 | WHS ESP {year}</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 -0700</lastBuildDate><atom:link href="https://whsesp.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 -0700</lastBuildDate><atom:link href="https://whsesp.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaced Repetition &amp; Anki</title>
+      <link>https://whsesp.github.io/wiki/anki/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 -0800</pubDate>
+      
+      <guid>https://whsesp.github.io/wiki/anki/</guid>
+      <description>Introduction Vocabulary is an essential element to communicating in a foreign language. Without the right vocabulary, you will find yourself struggling to express your ideas efficiently and precisely. You need a minumum of 2,500 Spanish words to be able to express well in Spanish (by that I mean you will at least be able to describe the words you don&amp;rsquo;t know). It might sound like a lot, but keep in mind that a native English speaker knows more than 20,000 English words on average, and the same for native Spanish speakers (Spanish words, of course).</description>
+    </item>
+    
+    <item>
+      <title>Commands (Imperative Mood)</title>
+      <link>https://whsesp.github.io/wiki/imperative/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://whsesp.github.io/wiki/imperative/</guid>
+      <description>Introduction to Commands In our lives, it is pretty common for us to give commands to others. I&amp;rsquo;m sure we&amp;rsquo;re all familiar with these two daily ones: &amp;ldquo;Take your test&amp;rdquo; or &amp;ldquo;Turn in your homework.&amp;rdquo; Commands are able to influence the actions of others, which sets the course for a very important linguistic ability.
+Both English and Spanish speakers use imperatives all the time. However, there are many versions of the same command based on who you are addressing.</description>
+    </item>
+    
     <item>
       <title>Introduction to Spanish</title>
       <link>https://whsesp.github.io/wiki/intro-to-spanish/</link>
@@ -38,6 +57,16 @@ Imperfect Conjugation Remove the ending (-ar, -er, or -ir) to get the verb stem,
       <guid>https://whsesp.github.io/wiki/basics/</guid>
       <description>Here&amp;rsquo;s some essential knowledge to kick-start your Spanish learning journey! This lesson is fairly long, so feel free to take breaks in between. You are expected to look up words you do not know in a dictionary.
 Spanish Alphabet (el abecedario) Spanish uses the latin alphabet (a-z) plus some Spanish-only letters. Below is the Spanish alphabet and what they are called in Spanish. You should watch this short video to learn about the pronunciation.</description>
+    </item>
+    
+    <item>
+      <title>Spanish Wiki</title>
+      <link>https://whsesp.github.io/wiki/wiki/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://whsesp.github.io/wiki/wiki/</guid>
+      <description>This wiki is maintained by Walnut High School English Spanish Partnership officer team.
+Social Media  Join our Discord server to learn Spanish and socialize! Join our Facebook group and Remind (code: whsespinfo) to keep track of important announcements and communicate with other members Follow us on Instagram (@whsespclub) to see Spanish tips and tricks on your feed!  Resources  Check out our wiki (see Index) Real Academia Española (RAE): Everything about the Spanish language.</description>
     </item>
     
   </channel>
