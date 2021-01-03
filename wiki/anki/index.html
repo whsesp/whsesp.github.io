@@ -120,35 +120,35 @@
 <p>You can install Anki <a href="https://apps.ankiweb.net/">here</a>. Sign up on <a href="https://ankiweb.net/account/register">AnkiWeb</a> to sync with your phone (AnkiMobile on iOS costs $24.99 to cover development expenses; Android users can get AnkiDroid for free).</p>
 <p>Anki should look something like this out of the box.</p>
 <figure>
-    <img src="/images/_20201231_195921screenshot.png"/> 
+    <img src="/images/20201231_195921screenshot.png"/> 
 </figure>
 
 <p>At the top you can see a toolbar with five buttons (Decks, Add, Browse, Stats, Sync). If you hover above them you can see their shorcut keys. The Decks button presents to you a list of decks. Right now there should only be a &ldquo;Default&rdquo; deck that Anki created for you. If you&rsquo;ve got new vocab word, click the &ldquo;Add&rdquo; button. In addition, the Browse button opens a note browser useful for managing notes in bulk; the Stats button is self-explanatory; the Sync button synchronizes your collection (of decks) with AnkiWeb (register <a href="https://ankiweb.net/account/register">here</a> if you haven&rsquo;t yet).</p>
 <p>Let&rsquo;s say you have some flashcards added already. You can click a deck and then click &ldquo;Study&rdquo;. It might look something like this:</p>
 <figure>
-    <img src="/images/_20210102_210014screenshot.png"/> 
+    <img src="/images/20210102_210014screenshot.png"/> 
 </figure>
 
 <p>You are currently viewing the front side of the flash card. This prompts you for recall. Below the flashcard are three numbers. The blue one is how many new cards are left to learn today. The red one is the number of reviews related to cards that you are currently learning. The green one represents reviews of matured (learned) cards. The underlined number indicates what type the current card is. If you are ready to see the answer, hit the space key or press &ldquo;Show Answer&rdquo;.</p>
 <figure>
-    <img src="/images/_20210102_210749screenshot.png"/> 
+    <img src="/images/20210102_210749screenshot.png"/> 
 </figure>
 
 <p>Now you are presented with the answer, or the back side of the flashcard. If you could remembered what the answer was (before viewing the answer of course), select &ldquo;Good&rdquo; or hit the space bar. If you could recall but with difficulty, select &ldquo;Hard&rdquo;. If the card is too easy or is presented to you too often, select &ldquo;Easy&rdquo;. Otherwise, if you couldn&rsquo;t remember the answer at all, select &ldquo;Again&rdquo;. These buttons are also bound to keys 1 through 4. You can optionally display the next review time in <code>Tools &gt; Preferences &gt; Scheduling &gt; Show next review time above answer buttons</code>.</p>
 <h2 id="decks"><span class="org-todo todo TODO">TODO</span> Decks<a class="anchor" href="#decks">#</a></h2>
 <p>In Anki, you group flashcards by decks. You can create one with the &ldquo;Create Deck&rdquo; button and rename one by clicking the gears button next to the deck name. You can also create an hierarchy of decks by create subdecks (and sub-subdecks and so on) using the <code>::</code> separator. I recommend grouping all your decks under one &ldquo;superdeck&rdquo; so that you can study all decks at once.</p>
 <figure>
-    <img src="/images/_20210102_204606screenshot.png"/> 
+    <img src="/images/20210102_204606screenshot.png"/> 
 </figure>
 
 <figure>
-    <img src="/images/_20210102_204503screenshot.png"/> 
+    <img src="/images/20210102_204503screenshot.png"/> 
 </figure>
 
 <p>Click the minus sign to fold the hierarchy.</p>
 <p>Each deck (every parent and child decks) has an <em>option group</em> assigned to them. Click the gears button and then &ldquo;Options&rdquo; see what they are.</p>
 <figure>
-    <img src="/images/_20210102_205333screenshot.png"/> 
+    <img src="/images/20210102_205333screenshot.png"/> 
 </figure>
 
 <p>The first tab configures how new flashcards are handled. Here is what each option means:</p>
@@ -159,7 +159,7 @@
 <h2 id="adding-a-note">Adding a Note<a class="anchor" href="#adding-a-note">#</a></h2>
 <p>Let&rsquo;s say we have a new note. Click &ldquo;Add&rdquo;. Note that you might not see as many styling options due to an add-on I installed.</p>
 <figure>
-    <img src="/images/_20201231_200638screenshot.png"/> 
+    <img src="/images/20201231_200638screenshot.png"/> 
 </figure>
 
 <p>The UI is pretty intuitive. You are adding a note of type &ldquo;Basic&rdquo; into the deck named &ldquo;Default&rdquo;. The &ldquo;Basic&rdquo; note type has two fields, Front and Back. If you are memorizing a vocab word, you might put the Spanish word in Front and English translation in Back. Basic notes only go from Front (the &ldquo;question&rdquo;) to Back (the &ldquo;answer&rdquo;). In this case, if you want to also memorize the Spanish word for a given English translation, you can click the button in the top-left corner and change the note type to &ldquo;Basic (and reversed card)&rdquo;. This will produce two <strong>cards</strong>, one from Front to Back, and the other from Back to Front. To clarify, a note consists of a set of fields, and it can generate cards that use these fields in their card template. These cards are what you actually see when studying a deck.</p>
